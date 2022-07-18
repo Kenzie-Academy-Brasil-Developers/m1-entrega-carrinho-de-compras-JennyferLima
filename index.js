@@ -61,6 +61,7 @@ function addList(array){
     const total = document.createElement('span')
     total.textContent = `Valor total da compra é R$ ${soma(productsCart)}`
     
+
     const button = document.createElement('button')
     button.textContent = 'Finalizar'
 
