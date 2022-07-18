@@ -53,16 +53,16 @@ button {
     box-shadow: rgb(201, 46, 70) 0px 10px 0px 0px;
     color: hsl(0, 0%, 100%);
     cursor: pointer;
-   }
+}
    
-   button:hover {
+button:hover {
     box-shadow: rgb(201, 46, 70) 0px 7px 0px 0px;
-   }
+}
    
-   button:active {
+button:active {
     background-color: rgb(255, 56, 86);
     /*50, 168, 80*/
     box-shadow: rgb(201, 46, 70) 0px 0px 0px 0px;
     transform: translateY(5px);
     transition: 200ms;
-   }
+}
